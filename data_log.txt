@@ -1,0 +1,11 @@
+Query: hi im sexy and checking nnection
+Response: I understand you're trying to check your network connection.  However, your message is a bit unclear.  To help you best, I need more information.  Are you experiencing problems connecting to the internet?  If so, could you tell me:
+
+* **What operating system are you using?** (e.g., Windows, macOS, Linux, iOS, Android)
+* **What device are you using?** (e.g., desktop computer, laptop, phone, tablet)
+* **What are the specific symptoms?** (e.g.,  "I can't access any websites," "My internet is slow," "I'm getting a specific error message,"  "I can connect to my local network but not the internet")
+* **What have you already tried?** (e.g., restarting your computer, checking your network cables, contacting your internet service provider)
+
+The more detail you can provide, the better I can assist you in troubleshooting your connection.  Let's get your internet working smoothly!
+
+--------------------------------------------------
