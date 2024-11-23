@@ -71,5 +71,5 @@ elif menu == "About":
         - View previously saved logs.  
         - Validates user inputs and handles errors gracefully.  
         
-        **Developer:** ®DENIZA SULEYMANOVA®  
+        **Developer:** DENIZA SULEYMANOVA ®  
     """)

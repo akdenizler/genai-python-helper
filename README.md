@@ -121,4 +121,4 @@ This project is licensed under the same license as Google Gemini. Feel free to u
 **Email**: [kyzyldeniz@gmail.com]  
 **GitHub**: [https://github.com/akdenizler](https://github.com/akdenizler)
 
----# genai-python-helper
+---
